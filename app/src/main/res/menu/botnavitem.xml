@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_home"
+        android:enabled="true"
+        android:icon="@drawable/house"
+        android:title="" />
+    <item
+        android:id="@+id/page_calender"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="" />
+    <item
+        android:id="@+id/page_search"
+        android:enabled="true"
+        android:icon="@drawable/compass"
+        android:title="" />
+    <item
+        android:id="@+id/page_setting"
+        android:enabled="true"
+        android:icon="@drawable/more"
+        android:title="" />
+</menu>
